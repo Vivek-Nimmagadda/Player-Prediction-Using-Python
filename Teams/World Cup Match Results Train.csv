@@ -1,0 +1,370 @@
+﻿Team,Opponent,Home1,Away,Won,Lost
+England,India,1,0,1,0
+England,New Zealand,1,0,1,0
+India,England,0,1,0,1
+India,New Zealand,0,1,0,1
+New Zealand,India,0,1,1,0
+Australia,Pakistan,0,1,1,0
+Pakistan,Australia,0,1,0,1
+Sri Lanka,West Indies,0,1,0,1
+West Indies,Sri Lanka,0,1,1,0
+Australia,Sri Lanka,0,1,1,0
+Sri Lanka,Australia,0,1,0,1
+Pakistan,West Indies,0,1,0,1
+West Indies,Pakistan,0,1,1,0
+Australia,West Indies,0,1,0,1
+West Indies,Australia,0,1,1,0
+Pakistan,Sri Lanka,0,1,1,0
+Sri Lanka,Pakistan,0,1,0,1
+England,Australia,1,0,0,1
+Australia,England,0,1,1,0
+New Zealand,West Indies,0,1,0,1
+West Indies,New Zealand,0,1,1,0
+West Indies,Australia,0,1,1,0
+Australia,West Indies,0,1,0,1
+Australia,England,0,1,0,1
+England,Australia,1,0,1,0
+Pakistan,Australia,0,1,1,0
+Australia,Pakistan,0,1,0,1
+England,Pakistan,1,0,1,0
+Pakistan,England,0,1,0,1
+India,West Indies,0,1,0,1
+West Indies,India,0,1,1,0
+Sri Lanka,New Zealand,0,1,0,1
+New Zealand,Sri Lanka,0,1,1,1
+India,New Zealand,0,1,0,1
+New Zealand,India,0,1,1,0
+Sri Lanka,India,0,1,1,0
+India,Sri Lanka,0,1,0,1
+West Indies,New Zealand,0,1,1,0
+New Zealand,West Indies,0,1,0,1
+West Indies,Pakistan,0,1,1,0
+Pakistan,West Indies,0,1,0,1
+England,New Zealand,1,0,1,0
+New Zealand,England,0,1,0,1
+West Indies,England,0,1,1,0
+England,West Indies,1,0,0,1
+England,New Zealand,1,0,1,0
+New Zealand,England,0,1,0,1
+Pakistan,Sri Lanka,0,1,1,0
+Sri Lanka,Pakistan,0,1,0,1
+England,Sri Lanka,1,0,1,0
+Sri Lanka,England,0,1,0,1
+New Zealand,Pakistan,0,1,1,0
+Pakistan,New Zealand,0,1,0,1
+Pakistan,England,0,1,0,1
+England,Pakistan,1,0,1,0
+Sri Lanka,New Zealand,0,1,0,1
+New Zealand,Sri Lanka,0,1,1,0
+England,New Zealand,1,0,0,1
+New Zealand,England,0,1,1,0
+Pakistan,Sri Lanka,0,1,1,0
+Sri Lanka,Pakistan,0,1,0,1
+England,Pakistan,1,0,1,0
+Pakistan,England,0,1,0,1
+New Zealand,Sri Lanka,0,1,0,1
+Sri Lanka,New Zealand,0,1,1,0
+Sri Lanka,England,0,1,0,1
+England,Sri Lanka,1,0,1,0
+Pakistan,New Zealand,0,1,1,0
+New Zealand,Pakistan,0,1,0,1
+India,West Indies,0,1,1,0
+West Indies,India,0,1,0,1
+West Indies,Australia,0,1,1,0
+Australia,West Indies,0,1,0,1
+Australia,India,0,1,1,0
+India,Australia,0,1,0,1
+West Indies,India,0,1,1,0
+India,West Indies,0,1,0,1
+Australia,West Indies,0,1,0,1
+West Indies,Australia,0,1,1,0
+India,Australia,0,1,1,0
+Australia,India,0,1,0,1
+England,India,1,0,0,1
+India,England,0,1,1,0
+Pakistan,West Indies,0,1,0,1
+West Indies,Pakistan,0,1,1,0
+India,West Indies,0,1,1,0
+West Indies,India,0,1,0,1
+Australia,India,0,1,1,0
+India,Australia,1,0,0,1
+India,New Zealand,1,0,1,0
+New Zealand,India,0,1,0,1
+Australia,New Zealand,0,1,1,0
+New Zealand,Australia,0,1,0,1
+India,Australia,1,0,1,0
+Australia,India,0,1,0,1
+Australia,New Zealand,0,1,1,0
+New Zealand,Australia,0,1,0,1
+New Zealand,India,0,1,0,1
+India,New Zealand,1,0,1,0
+Pakistan,Sri Lanka,1,0,1,0
+Sri Lanka,Pakistan,0,1,0,1
+West Indies,England,0,1,0,1
+England,West Indies,0,1,1,0
+Pakistan,England,1,0,1,0
+England,Pakistan,0,1,0,1
+West Indies,Sri Lanka,0,1,1,0
+Sri Lanka,West Indies,1,0,0,1
+West Indies,Pakistan,0,1,0,1
+Pakistan,West Indies,1,0,1,0
+England,Sri Lanka,0,1,1,0
+Sri Lanka,England,1,0,0,1
+England,Pakistan,0,1,0,1
+Pakistan,England,1,0,1,0
+West Indies,Sri Lanka,0,1,1,0
+Sri Lanka,West Indies,1,0,0,1
+Pakistan,Sri Lanka,1,0,1,0
+Sri Lanka,Pakistan,0,1,0,1
+England,West Indies,0,1,1,0
+West Indies,England,0,1,0,1
+Sri Lanka,England,1,0,0,1
+England,Sri Lanka,0,1,1,0
+West Indies,Pakistan,0,1,1,0
+Pakistan,West Indies,1,0,0,1
+Australia,Pakistan,0,1,1,0
+Pakistan,Australia,1,0,0,1
+England,India,0,1,1,0
+India,England,1,0,0,1
+Australia,England,0,1,1,0
+England,Australia,0,1,0,1
+New Zealand,Australia,1,0,1,0
+Australia,New Zealand,0,1,0,1
+England,India,0,1,1,0
+India,England,0,1,0,1
+Pakistan,West Indies,0,1,0,1
+West Indies,Pakistan,0,1,1,0
+Sri Lanka,New Zealand,0,1,0,1
+New Zealand,Sri Lanka,1,0,1,0
+Australia,South Africa,1,0,0,1
+South Africa,Australia,0,1,1,0
+West Indies,England,0,1,0,1
+England,West Indies,0,1,1,0
+South Africa,New Zealand,0,1,0,1
+New Zealand,South Africa,1,0,1,0
+Australia,India,1,0,1,0
+India,Australia,0,1,0,1
+South Africa,Sri Lanka,0,1,0,1
+Sri Lanka,South Africa,0,1,1,0
+India,Pakistan,0,1,1,0
+Pakistan,India,0,1,0,1
+South Africa,West Indies,0,1,1,0
+West Indies,South Africa,0,1,0,1
+Australia,England,1,0,0,1
+England,Australia,0,1,1,0
+Australia,Sri Lanka,1,0,1,0
+Sri Lanka,Australia,0,1,0,1
+West Indies,New Zealand,0,1,0,1
+New Zealand,West Indies,1,0,1,0
+South Africa,Pakistan,0,1,1,0
+Pakistan,South Africa,0,1,0,1
+England,Sri Lanka,0,1,1,0
+Sri Lanka,England,0,1,0,1
+India,West Indies,0,1,0,1
+West Indies,India,0,1,1,0
+Pakistan,Australia,0,1,1,0
+Australia,Pakistan,1,0,0,1
+India,New Zealand,0,1,0,1
+New Zealand,India,1,0,1,0
+South Africa,England,0,1,0,1
+England,South Africa,0,1,1,0
+West Indies,Sri Lanka,0,1,1,0
+Sri Lanka,West Indies,0,1,0,1
+England,New Zealand,0,1,0,1
+New Zealand,England,1,0,1,0
+India,South Africa,0,1,0,1
+South Africa,India,0,1,1,0
+Sri Lanka,Pakistan,0,1,0,1
+Pakistan,Sri Lanka,0,1,1,0
+New Zealand,Pakistan,1,0,0,1
+Pakistan,New Zealand,0,1,1,0
+Australia,West Indies,1,0,1,0
+West Indies,Australia,0,1,0,1
+New Zealand,Pakistan,1,0,0,1
+Pakistan,New Zealand,0,1,1,0
+England,South Africa,0,1,1,0
+South Africa,England,0,1,0,1
+Pakistan,England,0,1,1,0
+England,Pakistan,0,1,0,1
+Australia,India,0,1,1,0
+India,Australia,1,0,0,1
+West Indies,India,0,1,0,1
+India,West Indies,1,0,1,0
+India,Sri Lanka,0,1,0,1
+Sri Lanka,India,1,0,1,0
+Australia,West Indies,0,1,0,1
+West Indies,Australia,0,1,1,0
+New Zealand,England,0,1,1,0
+England,New Zealand,0,1,0,1
+New Zealand,South Africa,0,1,0,1
+South Africa,New Zealand,0,1,1,0
+South Africa,England,0,1,1,0
+England,South Africa,0,1,0,1
+Pakistan,South Africa,1,0,0,1
+South Africa,Pakistan,0,1,1,0
+England,Pakistan,0,1,0,1
+Pakistan,England,1,0,1,0
+Pakistan,New Zealand,1,0,1,0
+New Zealand,Pakistan,0,1,0,1
+England,Sri Lanka,0,1,0,1
+Sri Lanka,England,1,0,1,0
+India,Pakistan,1,0,1,0
+Pakistan,India,0,1,0,1
+West Indies,South Africa,0,1,1,0
+South Africa,West Indies,0,1,0,1
+New Zealand,Australia,0,1,0,1
+Australia,New Zealand,0,1,1,0
+Sri Lanka,India,0,1,1,0
+India,Sri Lanka,1,0,0,1
+Australia,West Indies,0,1,1,0
+West Indies,Australia,0,1,0,1
+Australia,Sri Lanka,0,1,0,1
+Sri Lanka,Australia,1,0,1,0
+Sri Lanka,England,0,1,0,1
+England,Sri Lanka,1,0,1,0
+India,South Africa,0,1,0,1
+South Africa,India,0,1,1,0
+South Africa,Sri Lanka,0,1,1,0
+Sri Lanka,South Africa,0,1,0,1
+South Africa,England,0,1,1,0
+England,South Africa,1,0,0,1
+India,Sri Lanka,0,1,1,0
+Sri Lanka,India,0,1,0,1
+India,England,0,1,1,0
+England,India,1,0,0,1
+Pakistan,West Indies,0,1,1,0
+West Indies,Pakistan,0,1,0,1
+Australia,New Zealand,0,1,0,1
+New Zealand,Australia,0,1,1,0
+Pakistan,Australia,0,1,1,0
+Australia,Pakistan,0,1,0,1
+New Zealand,West Indies,0,1,0,1
+West Indies,New Zealand,0,1,1,0
+Pakistan,New Zealand,0,1,1,0
+New Zealand,Pakistan,0,1,0,1
+West Indies,Australia,0,1,0,1
+Australia,West Indies,0,1,1,0
+Australia,India,0,1,1,0
+India,Australia,0,1,0,1
+Pakistan,South Africa,0,1,0,1
+South Africa,Pakistan,0,1,1,0
+India,Pakistan,0,1,1,0
+Pakistan,India,0,1,0,1
+South Africa,New Zealand,0,1,1,0
+New Zealand,South Africa,0,1,0,1
+India,New Zealand,0,1,0,1
+New Zealand,India,0,1,1,0
+South Africa,Australia,0,1,0,1
+Australia,South Africa,0,1,1,0
+New Zealand,Pakistan,0,1,0,1
+Pakistan,New Zealand,0,1,1,0
+Pakistan,Australia,0,1,0,1
+Australia,Pakistan,0,1,1,0
+Australia,Pakistan,0,1,1,0
+Pakistan,Australia,0,1,0,1
+India,Australia,0,1,0,1
+Australia,India,0,1,1,0
+England,Pakistan,0,1,1,0
+Pakistan,England,0,1,0,1
+India,England,0,1,1,0
+England,India,0,1,0,1
+Pakistan,India,0,1,0,1
+India,Pakistan,0,1,1,0
+England,Australia,0,1,0,1
+Australia,England,0,1,1,0
+West Indies,South Africa,0,1,1,0
+South Africa,West Indies,1,0,0,1
+Sri Lanka,New Zealand,0,1,1,0
+New Zealand,Sri Lanka,0,1,0,1
+New Zealand,West Indies,0,1,1,0
+West Indies,New Zealand,0,1,0,1
+South Africa,New Zealand,1,0,0,1
+New Zealand,South Africa,0,1,1,0
+Sri Lanka,West Indies,0,1,1,0
+West Indies,Sri Lanka,0,1,0,1
+Australia,Sri Lanka,0,1,1,0
+Sri Lanka,Australia,0,1,0,1
+India,Sri Lanka,0,1,1,0
+Sri Lanka,India,0,1,0,1
+Australia,New Zealand,0,1,1,0
+New Zealand,Australia,0,1,0,1
+New Zealand,India,0,1,0,1
+India,New Zealand,0,1,1,0
+Australia,Sri Lanka,0,1,1,0
+Sri Lanka,Australia,0,1,0,1
+Australia,India,0,1,1,0
+India,Australia,0,1,0,1
+Australia,South Africa,0,1,1,0
+South Africa,Australia,0,1,0,1
+India,Sri Lanka,0,1,0,1
+Sri Lanka,India,0,1,1,0
+England,New Zealand,0,1,0,1
+New Zealand,England,0,1,1,0
+West Indies,Pakistan,1,0,1,0
+Pakistan,West Indies,0,1,0,1
+Australia,West Indies,0,1,1,0
+West Indies,Australia,1,0,0,1
+Sri Lanka,South Africa,0,1,0,1
+South Africa,Sri Lanka,0,1,1,0
+West Indies,New Zealand,1,0,0,1
+New Zealand,West Indies,0,1,1,0
+Sri Lanka,West Indies,0,1,1,0
+West Indies,Sri Lanka,1,0,0,1
+Sri Lanka,England,0,1,1,0
+England,Sri Lanka,0,1,0,1
+England,Australia,0,1,0,1
+Australia,England,0,1,1,0
+South Africa,West Indies,0,1,1,0
+West Indies,South Africa,1,0,0,1
+New Zealand,Sri Lanka,0,1,0,1
+Sri Lanka,New Zealand,0,1,1,0
+South Africa,New Zealand,0,1,0,1
+New Zealand,South Africa,0,1,1,0
+Sri Lanka,Australia,0,1,0,1
+Australia,Sri Lanka,0,1,1,0
+England,South Africa,0,1,0,1
+South Africa,England,0,1,1,0
+Australia,New Zealand,0,1,1,0
+New Zealand,Australia,0,1,0,1
+West Indies,England,1,0,0,1
+England,West Indies,0,1,1,0
+Sri Lanka,New Zealand,0,1,1,0
+New Zealand,Sri Lanka,0,1,0,1
+South Africa,Australia,0,1,0,1
+Australia,South Africa,0,1,1,0
+Australia,Sri Lanka,0,1,1,0
+Sri Lanka,Australia,0,1,0,1
+New Zealand,Australia,0,1,0,1
+Australia,New Zealand,0,1,1,0
+Pakistan,Sri Lanka,1,0,1,0
+Sri Lanka,Pakistan,0,1,0,1
+New Zealand,Pakistan,0,1,1,0
+Pakistan,New Zealand,1,0,0,1
+Sri Lanka,New Zealand,1,0,1,0
+New Zealand,Sri Lanka,0,1,0,1
+Australia,Pakistan,0,1,0,1
+Pakistan,Australia,1,0,1,0
+West Indies,South Africa,0,1,0,1
+South Africa,West Indies,0,1,1,0
+England,South Africa,0,1,1,0
+South Africa,England,0,1,0,1
+India,South Africa,1,0,0,1
+South Africa,India,0,1,1,0
+England,West Indies,0,1,1,0
+West Indies,England,0,1,0,1
+India,West Indies,1,0,1,0
+West Indies,India,0,1,0,1
+West Indies,Pakistan,0,1,0,1
+Pakistan,West Indies,1,0,1,0
+Australia,India,0,1,0,1
+India,Australia,1,0,1,0
+New Zealand,South Africa,0,1,1,0
+South Africa,New Zealand,0,1,0,1
+England,Sri Lanka,0,1,0,1
+Sri Lanka,England,1,0,1,0
+New Zealand,Sri Lanka,0,1,0,1
+Sri Lanka,New Zealand,1,0,1,0
+India,Pakistan,1,0,1,0
+Pakistan,India,0,1,0,1
+India,Sri Lanka,1,0,1,0
+Sri Lanka,India,0,1,0,1
