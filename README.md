@@ -1,6 +1,6 @@
 World-Cup Best Player Prediction Using Python
 
-This Project can mainly be divided into 3 steps: 1) Scraping the player data from howstat.com using UiPath tool; 2) Predicting the best player based on their stats using Machine Learning Models; 3) Visualizing the Plots using Tkinter GUI.
+This Project can mainly be divided into 3 steps: 1) Scraping the player data from howstat.com using UiPath tool; 2) Predicting the best players and a best team based on their stats using Machine Learning Models; 3) Visualizing the Plots using Tkinter GUI.
 
 1) Scraping the player data: Scraping is done using UiPath tool. The main.xaml file consists of all the steps for achieving the same. The PS3 Project.mp4 file is a video showing the working of UiPath tool in scraping and storing the data in an Excel file. The Batsmen.csv and the Bowlers.csv files present inside their respective folders are the outcomes of Step-1.
 
@@ -13,3 +13,5 @@ I have used many classification models such as KNN, SVM, Logistic Regression, Na
 Note: Plots can also be visualized without the use of Tkinter. The files which visualizes the same without Tkinter are Batsmen_Prediction.py, Bowlers_Prediction.py and India_Prediction.py. Tkinter is only used as a front-end GUI for the plots.
 
 This is a project which is done for my B-Tech Final Year.
+
+Go through the Project Report for detailed explanation about the project. 
